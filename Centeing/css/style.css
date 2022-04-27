@@ -1,0 +1,120 @@
+/* with flex 
+.big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.small {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+*/
+
+/* with position
+.big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+}
+
+.small {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+*/
+
+/* .big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: table;
+}
+                                                ?
+.small {
+    width: 20rem;
+    height: 20rem;
+    background-color: blue;
+} */
+
+
+/* display-table 
+.big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.small {
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+    display: inline-block;
+}
+*/
+
+/* .big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+  }
+  
+  .small {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    background-color: blue;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  } */
+
+  /* with translate 
+  .big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+  }
+  
+  .small {
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+    transform: translate(50%, 50%);
+  }
+  */
+
+  .big {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .small {
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+  }
+  
+
+  
